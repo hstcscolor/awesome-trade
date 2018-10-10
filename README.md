@@ -31,7 +31,7 @@
 
 * [fmzquant/strategies](https://github.com/fmzquant/strategies) 一些策略的实现 
 * [blackbird](https://github.com/butor/blackbird) a long/short market-neutral strategy
-
+* [OKCoin韭菜收割机](https://github.com/richox/okcoin-leeks-reaper) OKCoin韭菜收割机
 ### 工具库
 
 * [pandas](https://github.com/pandas-dev/pandas) powerful Python data analysis toolkit
