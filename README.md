@@ -24,7 +24,7 @@
 * [Zenbot](https://github.com/DeviaVir/zenbot) is a command-line cryptocurrency trading bot using Node.js and MongoDB.
 * [magic8bot](https://github.com/magic8bot/magic8bot) is a cryptocurrency trading bot using Node.js and MongoDB.
 * [Gekko](https://github.com/askmike/gekko) A bitcoin trading bot written in node
-
+* [Trump2Cash](https://github.com/maxbbraun/trump2cash) A stock trading bot powered by Trump tweets
 
 ### 策略
 
