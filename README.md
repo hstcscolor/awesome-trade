@@ -6,6 +6,7 @@
     - [交易API](#交易API)
     - [自动交易](#自动交易)
     - [策略](#策略)
+    - [工具库](#工具库)
     - [其他](#其他)
 
 ### 框架或平台 
@@ -30,3 +31,7 @@
 
 * [fmzquant/strategies](https://github.com/fmzquant/strategies) 一些策略的实现 
 * [blackbird](https://github.com/butor/blackbird) a long/short market-neutral strategy
+
+### 工具库
+
+* [pandas](https://github.com/pandas-dev/pandas) powerful Python data analysis toolkit
