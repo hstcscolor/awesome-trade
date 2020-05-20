@@ -19,6 +19,7 @@
 
 * [XChange](https://github.com/knowm/XChange) API for interacting with 60+ Bitcoin and Altcoin exchanges
 * [ccxt](https://github.com/ccxt/ccxt) A JavaScript / Python / PHP cryptocurrency trading library with support for more than 100 bitcoin/altcoin exchanges
+* [goex](https://github.com/nntaoli-project/goex) Exchange Rest And WebSocket API For Golang Wrapper support okcoin,okex,huobi,hbdm,bitmex,coinex,poloniex,bitfinex,bitstamp,binance,kraken,bithumb,zb,hitbtc,fcoin, coinbene
 
 
 ### 自动交易
